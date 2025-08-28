@@ -97,7 +97,9 @@ Nó 12: Calcula resultado final
 Nó 13: Retorna resultado
 ```
 
-**📊 Diagrama de Fluxo Visual (adicionar aqui)**: 
+**📊 Diagrama de Fluxo Visual**: 
+<img width="1227" height="3840" alt="GrafoDeFluxo" src="https://github.com/user-attachments/assets/a69eda0f-452f-4e5f-93ec-ea6c9f52faae" />
+
 
 #### Estrutura do Grafo de Fluxo
 
