@@ -97,7 +97,7 @@ Nó 12: Calcula resultado final
 Nó 13: Retorna resultado
 ```
 
-**📊 Diagrama de Fluxo Visual**: Para uma representação gráfica completa do grafo de fluxo, consulte o arquivo `fluxo-grafo.md` que contém um diagrama Mermaid renderizável.
+**📊 Diagrama de Fluxo Visual (adicionar aqui)**: 
 
 #### Estrutura do Grafo de Fluxo
 
