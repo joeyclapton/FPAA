@@ -209,18 +209,6 @@ FPAA/TP-01/
 
 ---
 
-## 🧪 Testes e Validação
-
-O programa inclui testes automáticos que validam:
-- Números pequenos (caso base)
-- Números de tamanho médio
-- Números grandes
-- Comparação com multiplicação padrão do Python
-
-Todos os testes passam, confirmando a correção da implementação.
-
----
-
 ## 📚 Referências
 
 - Karatsuba, A. A. (1962). "The complexity of computations". Proceedings of the Steklov Institute of Mathematics.
